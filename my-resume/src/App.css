@@ -1,0 +1,53 @@
+.App {
+  margin: 0;
+  background-color: #f3f3f3;
+}
+
+.header{
+  text-align: center;
+  padding-top: 10px;
+  background-color: #374b66;
+  color: #eeb84e;
+  height: 80px;  
+  font-family: Open Sans, Maven Pro Bold, Ubuntu;
+}
+
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.columns {
+  display: flex;
+}
+
+.sidePanel {
+  padding: 20px;
+  background-color: #b0c7dc;
+  width: 500px;
+}
+
+.noBullets {
+  list-style-type: none;
+  padding:0;
+}
+
+h4 {
+  color: #8c9ca4
+}
+h2  {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+h4 {
+  padding-bottom:5px;
+}
+.col-2 {
+  display:flex;
+}
+
+
+
+
